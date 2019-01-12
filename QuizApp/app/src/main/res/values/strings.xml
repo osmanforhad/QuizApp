@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="true_message">The answer is correct</string>
+    <string name="false_message">The answer is incorrect</string>
+
+    <string name="question_one">icst is a University</string>
+    <string name="question_two">icst is in feni</string>
+    <string name="question_three">icst is not in Dhaka</string>
+    <string name="question_four">Bu is in dhaka</string>
+    <string name="question_five">osman is not a student</string>
+    <string name="question_six">forhad is not poupular</string>
+    <string name="question_seven">CTG is a division</string>
+    <string name="question_eight">Sylhet is a division</string>
+
+</resources>
